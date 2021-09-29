@@ -1,0 +1,12 @@
+Wards:
+Unique Id :1
+Capacity :2
+Patient Name :Talha
+Doctor Name :Ibrahim
+Patient Gender :M
+Hospital Name :HBL
+Hospital Address :hh
+Hospital Rating :0
+Hospital Contact :123
+Hospital Price per bed :12
+Hospital Beds Available :1
